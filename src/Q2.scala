@@ -10,8 +10,3 @@ object Q2 {
   }
 }
 
-/*Write a program in PatternMatching, takes the integer input from the
-command line. Based on the input, write a code using match to print
-Negative/Zero is input when input is less than or equal to 0. Print Even number
-is given when input is even, and print Odd number is given when input is odd.
-(Hint: Use Lambda functions)*/
